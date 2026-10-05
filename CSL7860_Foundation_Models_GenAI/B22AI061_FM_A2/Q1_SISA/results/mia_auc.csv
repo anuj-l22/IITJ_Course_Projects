@@ -1,0 +1,5 @@
+model,mia_auc
+baseline,0.4520526
+naive_retrain,0.46839647999999995
+unlearned:del1pct_s3,0.45713560000000003
+unlearned:del5pct_s3,0.46175963999999997

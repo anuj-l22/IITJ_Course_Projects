@@ -1,0 +1,5 @@
+exp,K,S,retrained_slices,total_slices,fraction_retrained,wall_clock_sec,simulate_delete,delete_strategy
+baseline_s3,20,3,60,60,1.0,159.56750512123108,0.0,uniform
+del1pct_s3,20,3,15,60,0.25,40.31444811820984,0.01,cluster_shards
+del5pct_s3,20,3,15,60,0.25,27.89182043075561,0.05,cluster_shards
+del5pct_naive_s3,20,3,60,60,1.0,146.9491481781006,0.05,cluster_shards

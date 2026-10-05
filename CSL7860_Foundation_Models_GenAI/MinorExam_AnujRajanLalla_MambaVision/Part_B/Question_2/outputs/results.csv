@@ -1,0 +1,451 @@
+id,noise_type,noise_level,prompt_in,gold,pred,correct,f1,tag
+1,clean,none,Question: What is the capital of the U.S. state of Alabama? Answer with only the city name.,Montgomery,montgomery,1,1.0,baseline
+2,clean,none,Question: What is the capital of the U.S. state of Alaska? Answer with only the city name.,Juneau,alaska,0,0.0,baseline
+3,clean,none,Question: What is the capital of the U.S. state of Arizona? Answer with only the city name.,Phoenix,phoenix,1,1.0,baseline
+4,clean,none,Question: What is the capital of the U.S. state of Arkansas? Answer with only the city name.,Little Rock,arkansas,0,0.0,baseline
+5,clean,none,Question: What is the capital of the U.S. state of California? Answer with only the city name.,Sacramento,san francisco,0,0.0,baseline
+6,clean,none,Question: What is the capital of the U.S. state of Colorado? Answer with only the city name.,Denver,denver,1,1.0,baseline
+7,clean,none,Question: What is the capital of the U.S. state of Connecticut? Answer with only the city name.,Hartford,connecticut,0,0.0,baseline
+8,clean,none,Question: What is the capital of the U.S. state of Delaware? Answer with only the city name.,Dover,delaware,0,0.0,baseline
+9,clean,none,Question: What is the capital of the U.S. state of Florida? Answer with only the city name.,Tallahassee,tallahassee,1,1.0,baseline
+10,clean,none,Question: What is the capital of the U.S. state of Georgia? Answer with only the city name.,Atlanta,atlanta,1,1.0,baseline
+11,clean,none,Question: What is the capital of the U.S. state of Hawaii? Answer with only the city name.,Honolulu,honolulu,1,1.0,baseline
+12,clean,none,Question: What is the capital of the U.S. state of Idaho? Answer with only the city name.,Boise,boise,1,1.0,baseline
+13,clean,none,Question: What is the capital of the U.S. state of Illinois? Answer with only the city name.,Springfield,chicago,0,0.0,baseline
+14,clean,none,Question: What is the capital of the U.S. state of Indiana? Answer with only the city name.,Indianapolis,indianapolis,1,1.0,baseline
+15,clean,none,Question: What is the capital of the U.S. state of Iowa? Answer with only the city name.,Des Moines,st petersburg,0,0.0,baseline
+16,clean,none,Question: What is the capital of the U.S. state of Kansas? Answer with only the city name.,Topeka,wichita,0,0.0,baseline
+17,clean,none,Question: What is the capital of the U.S. state of Kentucky? Answer with only the city name.,Frankfort,kentucky,0,0.0,baseline
+18,clean,none,Question: What is the capital of the U.S. state of Louisiana? Answer with only the city name.,Baton Rouge,new orleans,0,0.0,baseline
+19,clean,none,Question: What is the capital of the U.S. state of Maine? Answer with only the city name.,Augusta,carlisle,0,0.0,baseline
+20,clean,none,Question: What is the capital of the U.S. state of Maryland? Answer with only the city name.,Annapolis,baltimore,0,0.0,baseline
+21,clean,none,Question: What is the capital of the U.S. state of Massachusetts? Answer with only the city name.,Boston,boston,1,1.0,baseline
+22,clean,none,Question: What is the capital of the U.S. state of Michigan? Answer with only the city name.,Lansing,st. louis,0,0.0,baseline
+23,clean,none,Question: What is the capital of the U.S. state of Minnesota? Answer with only the city name.,Saint Paul,minnesota,0,0.0,baseline
+24,clean,none,Question: What is the capital of the U.S. state of Mississippi? Answer with only the city name.,Jackson,mississippi,0,0.0,baseline
+25,clean,none,Question: What is the capital of the U.S. state of Missouri? Answer with only the city name.,Jefferson City,missouri,0,0.0,baseline
+26,clean,none,Question: What is the capital of the U.S. state of Montana? Answer with only the city name.,Helena,boise,0,0.0,baseline
+27,clean,none,Question: What is the capital of the U.S. state of Nebraska? Answer with only the city name.,Lincoln,omaha,0,0.0,baseline
+28,clean,none,Question: What is the capital of the U.S. state of Nevada? Answer with only the city name.,Carson City,las vegas,0,0.0,baseline
+29,clean,none,Question: What is the capital of the U.S. state of New Hampshire? Answer with only the city name.,Concord,winnipeg,0,0.0,baseline
+30,clean,none,Question: What is the capital of the U.S. state of New Jersey? Answer with only the city name.,Trenton,philadelphia,0,0.0,baseline
+31,clean,none,Question: What is the capital of the U.S. state of New Mexico? Answer with only the city name.,Santa Fe,albuquerque,0,0.0,baseline
+32,clean,none,Question: What is the capital of the U.S. state of New York? Answer with only the city name.,Albany,new york city,0,0.0,baseline
+33,clean,none,Question: What is the capital of the U.S. state of North Carolina? Answer with only the city name.,Raleigh,carolina,0,0.0,baseline
+34,clean,none,Question: What is the capital of the U.S. state of North Dakota? Answer with only the city name.,Bismarck,fargo,0,0.0,baseline
+35,clean,none,Question: What is the capital of the U.S. state of Ohio? Answer with only the city name.,Columbus,ohio,0,0.0,baseline
+36,clean,none,Question: What is the capital of the U.S. state of Oklahoma? Answer with only the city name.,Oklahoma City,oklahoma city,1,1.0,baseline
+37,clean,none,Question: What is the capital of the U.S. state of Oregon? Answer with only the city name.,Salem,sacramento,0,0.0,baseline
+38,clean,none,Question: What is the capital of the U.S. state of Pennsylvania? Answer with only the city name.,Harrisburg,pittsburgh,0,0.0,baseline
+39,clean,none,Question: What is the capital of the U.S. state of Rhode Island? Answer with only the city name.,Providence,rhode island,0,0.0,baseline
+40,clean,none,Question: What is the capital of the U.S. state of South Carolina? Answer with only the city name.,Columbia,columbia,1,1.0,baseline
+41,clean,none,Question: What is the capital of the U.S. state of South Dakota? Answer with only the city name.,Pierre,sioux falls,0,0.0,baseline
+42,clean,none,Question: What is the capital of the U.S. state of Tennessee? Answer with only the city name.,Nashville,tennessee,0,0.0,baseline
+43,clean,none,Question: What is the capital of the U.S. state of Texas? Answer with only the city name.,Austin,san antonio,0,0.0,baseline
+44,clean,none,Question: What is the capital of the U.S. state of Utah? Answer with only the city name.,Salt Lake City,utah,0,0.0,baseline
+45,clean,none,Question: What is the capital of the U.S. state of Vermont? Answer with only the city name.,Montpelier,vermont,0,0.0,baseline
+46,clean,none,Question: What is the capital of the U.S. state of Virginia? Answer with only the city name.,Richmond,richmond virginia,0,0.6666666666666666,baseline
+47,clean,none,Question: What is the capital of the U.S. state of Washington? Answer with only the city name.,Olympia,seattleites,0,0.0,baseline
+48,clean,none,Question: What is the capital of the U.S. state of West Virginia? Answer with only the city name.,Charleston,charleston,1,1.0,baseline
+49,clean,none,Question: What is the capital of the U.S. state of Wisconsin? Answer with only the city name.,Madison,milwaukee,0,0.0,baseline
+50,clean,none,Question: What is the capital of the U.S. state of Wyoming? Answer with only the city name.,Cheyenne,laramie,0,0.0,baseline
+1,typos,light,Question: What is yhe capital of the U.S. wtate of Alabama? Answer with only the city name.,Montgomery,montgomery,1,1.0,baseline
+1,typos,heavy,Quesrion: What is the capital ovf tje 5U.S. state of Alabama? Answer with only the city namd.,Montgomery,tuscaloosa,0,0.0,baseline
+1,spacing_punct,light, Question:   What is the   capital of the U.S state of Alabama Answer with only the city name.   ,Montgomery,montgomery,1,1.0,baseline
+1,spacing_punct,heavy,Question What is     the   capital of   the US state   of Alabama   Answer with only the city name,Montgomery,montgomery,1,1.0,baseline
+1,unicode_confusables,light,Questiｏn: What is the capіtal of the U.S. sｔαｔe of Alαbamα? Answer with οｎly ｔhе ciｔy name.,Montgomery,san francisco,0,0.0,baseline
+1,unicode_confusables,heavy,Queѕｔіoｎ: Ｗhaｔ іs ｔhe cαpitαl of tһе U.S. ｓtate ｏf Alabaｍα? Anѕwer wіｔh οｎly thе ciｔу ｎaｍе.,Montgomery,Tuscaloosa,0,0.0,baseline
+1,emoji,light,Question: What is the capital of 🔹 the U.S. ✨ state of 🙂 Alabama 📍? Answer with only the city name.,Montgomery,montgomery,1,1.0,baseline
+1,emoji,heavy,Q 🗺️ uestion: What is the capital o ✅ f 🔹 the U.S. state of 🗺️ Alabama? Answer w 🗺️ ith only the ⭐ city name.,Montgomery,montgomery,1,1.0,baseline
+2,typos,light,Question: What is the sapital of the U.S. state of QAlaska? Answer with only the city name.,Juneau,alaska,0,0.0,baseline
+2,typos,heavy,Quest8on: Whayt is the caoital of the U.S. state of Alasks? Answer with only the cit4 name.,Juneau,san francisco,0,0.0,baseline
+2,spacing_punct,light,Question: What is the capital of   the U.S. state   of Alaska Answer with only the city name   ,Juneau,alaska,0,0.0,baseline
+2,spacing_punct,heavy, Question What   is the capital   of the US   state of Alaska Answer   with   only the city   name   ,Juneau,alaska,0,0.0,baseline
+2,unicode_confusables,light,Question: Whａt is tһe capіtal of the U.S. staｔe of Alaska? Αnsweｒ with on1y the сity naｍe.,Juneau,tacoma,0,0.0,baseline
+2,unicode_confusables,heavy,Ｑuеsｔіon: What is tһe cαріｔαl οf ｔhe U.S. stαte of A1ａѕkα? Aｎsｗer ｗiｔh oｎ1у tһe ciｔу ｎaｍe.,Juneau,san francisco california,0,0.0,baseline
+2,emoji,light,Question: What is the ⚪ capital of the U.S. state of 🙂 Alaska 📍? Answer with onl ✨ y the city name.,Juneau,tacoma,0,0.0,baseline
+2,emoji,heavy,Que ⭐ sti ⚪ on: Wha ⚪ t is th ⭐ e capital of the U.S. 📍 state of ✨🙂 Alaska 📍⭐? Answe 🧭 r with only the city name.,Juneau,tacoma,0,0.0,baseline
+3,typos,light,Question: What is tthe capital of the U.S. dtate of Arizona? Answer with only the city name.,Phoenix,phoenix,1,1.0,baseline
+3,typos,heavy,Qkuestion: AWhaf is the capital of the U.S. state of Arizonsa? Answer with lonly the city name.,Phoenix,san antonio,0,0.0,baseline
+3,spacing_punct,light, Question: What is the capital of   the U.S state of Arizona? Answer with only the   city name,Phoenix,phoenix,1,1.0,baseline
+3,spacing_punct,heavy, Question What is   the capital of the   US   state       of Arizona Answer with only the city name   ,Phoenix,phoenix,1,1.0,baseline
+3,unicode_confusables,light,Quеstioｎ: Wһat is the capіtal of tһe U.5. state of Αrizοnα? Answer with onlу ｔhe city namе.,Phoenix,sarajevo,0,0.0,baseline
+3,unicode_confusables,heavy,Queѕｔioｎ: Ｗhαｔ is tһе caрiｔα1 of the U.5. state of Arizoｎa? Αnswer wiｔh on1y thе city nαmе.,Phoenix,scottsdale,0,0.0,baseline
+3,emoji,light,Question: What is the capital of the U.S 📎 . state of A 🙂 rizona? Answer with only the city name.,Phoenix,sacramento,0,0.0,baseline
+3,emoji,heavy,Question: Wh 📎 at i 🗺️ s the capital of the U.S. state o 🔹 f Arizona? 🙂 Answe ✅ r with only the city name 🧭 .,Phoenix,phoenix,1,1.0,baseline
+4,typos,light,Qjuestion: What lis the capital of the U.S. state of Arkansas? Answer with only the city name.,Little Rock,arkansas,0,0.0,baseline
+4,typos,heavy,Question: Whxat is the ca[ital of the U.S. state of Arkanszas? Abnswer with only the city game.,Little Rock,arkansas,0,0.0,baseline
+4,spacing_punct,light, Question What is the capital of the US.     state of Arkansas? Answer with only the city name.   ,Little Rock,arkansas,0,0.0,baseline
+4,spacing_punct,heavy, Question     What is the     capital of   the US state of Arkansas Answer with   only the city name   ,Little Rock,arkansas city,0,0.0,baseline
+4,unicode_confusables,light,Question: What is the caрiｔal of the U.S. ѕｔａｔe of Arkansas? Answеr wіth only the сіty name.,Little Rock,arkansas,0,0.0,baseline
+4,unicode_confusables,heavy,Queѕtion: Wһαt ｉѕ tһе cαpiｔal of ｔhe U.5. ѕｔａｔe of Arkａnｓas? Αｎswer wiｔh only ｔһе cｉｔy nαme.,Little Rock,arkansas city,0,0.0,baseline
+4,emoji,light,Question: What is the capital of the U.S. state of 🙂 Arkansas 📍? Answer with only the cit 🧭 y na 🙂 me.,Little Rock,arkansas,0,0.0,baseline
+4,emoji,heavy,Question: Wha ⚪ t i 📎 s the ✨ capital of the ⚪ ✅ U.S. state of Arka 📍 nsas? Answer with only the city name.,Little Rock,arkansas,0,0.0,baseline
+5,typos,light,Question: What is rthe capital of the U.S. state of Califodrnia? Answer with only the city name.,Sacramento,san francisco,0,0.0,baseline
+5,typos,heavy,1uestion: What is the capital of the U.S. staye of Csalifornia? Answer `with only the city nam2e.,Sacramento,san francisco,0,0.0,baseline
+5,spacing_punct,light, Question   What is the capital   of the U.S state of California? Answer with only the city name.   ,Sacramento,san francisco,0,0.0,baseline
+5,spacing_punct,heavy, Question What is the capital of   the US     state of   California     Answer with only the city name   ,Sacramento,san francisco,0,0.0,baseline
+5,unicode_confusables,light,Question: Wһaｔ iѕ tһe capｉｔal of ｔhe U.5. state οf Calіfornia? Answеr with only the cіｔy name.,Sacramento,san francisco,0,0.0,baseline
+5,unicode_confusables,heavy,Quesｔіon: Whaｔ is the capiｔαl οf ｔｈe U.5. ѕtate of Сalifornia? Anѕweｒ with oｎlу ｔhe сitу ｎaｍe.,Sacramento,california,0,0.0,baseline
+5,emoji,light,✨ ⭐ Question: What is the capital of the U.S. state of 🙂 California 📍? Answer with only the city name.,Sacramento,san francisco,0,0.0,baseline
+5,emoji,heavy,Question: What 🙂 ⭐ is the capit ⭐ 🔹 al of the U.S. state of ✨🙂 California 📍⭐? A 🧭 nsw ⚪ er with only the city name.,Sacramento,san francisco,0,0.0,baseline
+6,typos,light,Question: Dhat is the capital of the U.C. state of Colorado? Answer with only the city name.,Denver,denver colorado,0,0.6666666666666666,baseline
+6,typos,heavy,Question: Whsat is the capital of the U.RDS. state of Colorado? Answer wjth only the city nxme.,Denver,denver colorado,0,0.6666666666666666,baseline
+6,spacing_punct,light, Question What is   the capital of the U.S. state of Colorado? Answer with only the   city name   ,Denver,denver colorado,0,0.6666666666666666,baseline
+6,spacing_punct,heavy, Question   What is the capital of the US state     of Colorado Answer   with   only the city   name   ,Denver,denver,1,1.0,baseline
+6,unicode_confusables,light,Queѕtion: Whαt is tһe ｃapital of thе U.S. state οf Co1orαdo? Ａnswеr wiｔh only tһe city name.,Denver,san francisco,0,0.0,baseline
+6,unicode_confusables,heavy,Questｉon: Whαｔ iѕ thе caріta1 οf thе U.S. ѕtαｔｅ of Сo1orαdo? Aｎswеr witｈ οｎlу the cіｔy nαmе.,Denver,cty nmе,0,0.0,baseline
+6,emoji,light,Questi 🙂 on: What is the capital of the U.S. state of 🙂 Colorado 📍? Answer with o ✅ nly the city name.,Denver,san antonio,0,0.0,baseline
+6,emoji,heavy,Q ✨ uestion: What is the capital ✅ of the 🗺️ 📎 U.S. sta 🔹 te of Colorado? Answer with 📎 only the city name.,Denver,arapahoe,0,0.0,baseline
+7,typos,light,Questiion: What is the capital of the U.S. state of Connecticut? Anxwer with only the city name.,Hartford,connecticut,0,0.0,baseline
+7,typos,heavy,Question: What is tye capital of the U.S. state of Connectiscuyf? Answer with only the cit6y name.,Hartford,connecticut,0,0.0,baseline
+7,spacing_punct,light, Question What is the capital of the   U.S. state of Connecticut Answer with only the   city name.   ,Hartford,connecticut,0,0.0,baseline
+7,spacing_punct,heavy,Question What is the capital   of the US state of Connecticut   Answer with   only       the city name   ,Hartford,new haven connecticut,0,0.0,baseline
+7,unicode_confusables,light,Questiｏn: What is ｔhe capital of the U.S. state of Connecｔіcut? Answer with only tһe cｉty ｎame.,Hartford,san francisco,0,0.0,baseline
+7,unicode_confusables,heavy,Ｑueѕtiοn: Wһaｔ іѕ the сａpｉtα1 of thе U.S. state of Conneｃtіcut? Anѕwer wіｔһ οｎ1y ｔhe сіty naｍe.,Hartford,Connectcut is a state in the Mid-Atlantic region,0,0.0,baseline
+7,emoji,light,Question: What 🔹 is ✅ the capital of the U.S. state of 🙂 Connecticut 📍? Answer with only the city name.,Hartford,connecticut,0,0.0,baseline
+7,emoji,heavy,🙂 Question: What is the capital of th 📎 e U.S. state of ✨🙂 Connecticut 📍⭐? Ans 🔹 w 🧭 er wit 🗺️ h only the ci 📍 ty name.,Hartford,connecticut,0,0.0,baseline
+8,typos,light,Question: What is the capital of the U.S. etate of Delaware? Answer wirth only the city name.,Dover,dover delaware,0,0.6666666666666666,baseline
+8,typos,heavy,Qu2sgti7n: What lis the capital of the U.S. stat2 of Delaware? Answer with only the city name.,Dover,dover delaware,0,0.6666666666666666,baseline
+8,spacing_punct,light,Question: What is the capital of the US state of Delaware? Answer with     only the city name.,Dover,delaware,0,0.0,baseline
+8,spacing_punct,heavy, Question What is the capital   of   the US   state of Delaware Answer with   only the   city   name,Dover,dover delaware,0,0.6666666666666666,baseline
+8,unicode_confusables,light,Question: What is the capital of thｅ U.S. state of Dеlawarе? Answer with only ｔhe ciｔy naｍｅ.,Dover,detroit,0,0.0,baseline
+8,unicode_confusables,heavy,Quｅstіοｎ: Whαt is thｅ cαріtaｌ ｏf tｈе U.S. ѕtatｅ οf De1awarе? Aｎswｅr with οnｌу thе сіtу ｎaｍｅ.,Dover,detroit,0,0.0,baseline
+8,emoji,light,Question: What is the capital of the U.S. state o 🙂 f Delaware? Answer with onl ✅ y the city name.,Dover,delaware,0,0.0,baseline
+8,emoji,heavy,Question: What is the capital o ⚪ f the 🧭 U.S. stat ✨ e of Delawa 🔹 re? Answer with on 🧭 ly the city 🗺️ name.,Dover,delaware,0,0.0,baseline
+9,typos,light,Question: What is the capiyal of the U.S. sta4e of Florida? Answer with only the city name.,Tallahassee,tallahassee,1,1.0,baseline
+9,typos,heavy,Question: What is the capigal of the U.S. state of Rlorida? Ahswer with onlu the cuity name.,Tallahassee,roosevelt,0,0.0,baseline
+9,spacing_punct,light,Question:   What is the capital of the U.S state of Florida?   Answer with only the city name   ,Tallahassee,tallahassee,1,1.0,baseline
+9,spacing_punct,heavy,Question What is the capital   of the US     state of Florida   Answer   with only the city   name,Tallahassee,tallahassee,1,1.0,baseline
+9,unicode_confusables,light,Question: Whαt is the capitαl of ｔhe U.S. stαte of Florida? Anѕweｒ wіth only the ｃity name.,Tallahassee,tallahassee,1,1.0,baseline
+9,unicode_confusables,heavy,Quеsｔion: Wһat is tһе сαpital of ｔhе Ｕ.5. ѕtatе of Flοridａ? Αｎswеr with on1y the cіｔy ｎαｍе.,Tallahassee,cty nmе,0,0.0,baseline
+9,emoji,light,Question: What is the capital of the U.S. state of 🙂 Florida 📍? An 🔹 swer with only the city 🧭 name.,Tallahassee,tallahassee,1,1.0,baseline
+9,emoji,heavy,Question: ✨ What is the capital of the U.S. state 🗺️ 📎 of Florida? Answer with o ⭐ nly 🧭 th ⭐ e city name.,Tallahassee,tallahassee,1,1.0,baseline
+10,typos,light,Question: What is the capital of the U.S. state of Geo3rgia? Ancwer with only the city name.,Atlanta,san francisco,0,0.0,baseline
+10,typos,heavy,Question: SWhat is the capital of rthe U.S. state of Geo4rgia? Answer with onlgy tje city name.,Atlanta,san francisco,0,0.0,baseline
+10,spacing_punct,light, Question What is the capital of the US. state of Georgia?   Answer with only the city   name.,Atlanta,atlanta,1,1.0,baseline
+10,spacing_punct,heavy, Question   What     is the capital of the US state     of Georgia Answer with only the   city name,Atlanta,atlanta,1,1.0,baseline
+10,unicode_confusables,light,Quеstion: Whaｔ is ｔhe сαpіtαl οf ｔｈe U.S. stαte of Georgia? Aｎswеr witһ onlｙ ｔｈе citу name.,Atlanta,stte of georgia,0,0.0,baseline
+10,unicode_confusables,heavy,Queѕtｉοn: Wһaｔ iѕ thе сapіtαl οf thе Ｕ.S. ѕｔatе of Geοrgіα? Answеr wiｔһ only tһе cіtｙ nａmｅ.,Atlanta,georgia,0,0.0,baseline
+10,emoji,light,Question: W 🙂 hat is ⭐ the capital of the U.S. state of 🙂 Georgia 📍? Answer with only the city name.,Atlanta,atlanta,1,1.0,baseline
+10,emoji,heavy,Question: What is the capital 🗺️ of the U.S. state ✅ of ✨ Geo 🔹 rgia? Answ ✨ e 🧭 r with only the city name.,Atlanta,georgia,0,0.0,baseline
+11,typos,light,Question: Wthat is the capital of the U.S. state of Hawaii? Answer with 9only the city name.,Honolulu,honolulu,1,1.0,baseline
+11,typos,heavy,Question: Wuhat 8s the capital of the U.Z. state of Haqaii? Answer awith only the city name.,Honolulu,sydney,0,0.0,baseline
+11,spacing_punct,light, Question: What is the capital of the U.S state of Hawaii? Answer with only the     city name   ,Honolulu,honolulu,1,1.0,baseline
+11,spacing_punct,heavy, Question What is the   capital of the     US   state of Hawaii   Answer with   only the city name,Honolulu,honolulu,1,1.0,baseline
+11,unicode_confusables,light,Questｉon: Whαｔ iѕ the сaрitαl οf ｔhe U.S. state οf Hawａii? Anѕwеr with only the city namе.,Honolulu,hawaii,0,0.0,baseline
+11,unicode_confusables,heavy,Ｑuеstіοn: Ｗһaｔ iѕ thе capital of ｔhe U.5. ѕtａtе οf Hawαіі? Anѕwer with οn1у ｔһе cіtу namｅ.,Honolulu,Wat i thе capital of the U.5.,0,0.0,baseline
+11,emoji,light,Question: What is the ca 🧭 pital of the U.S. 📍 state of 🙂 Hawaii 📍? Answer with only the city name.,Honolulu,honolulu,1,1.0,baseline
+11,emoji,heavy,Question: Wh 🙂 at is the capital of ⭐ th 📍 e U.S. ⚪ state of ✨🙂 Hawaii 📍⭐? Answer with only the city name 🗺️ 🗺️ .,Honolulu,honolulu,1,1.0,baseline
+12,typos,light,Wuestion: What is the capital of the U.S. state of Idaho? Answer with only the cify name.,Boise,boise,1,1.0,baseline
+12,typos,heavy,Question: Whqt is the capital of yhe U.S. state of Ivdaho? Answer with only the c6yty name.,Boise,boise,1,1.0,baseline
+12,spacing_punct,light, Question: What is   the capital of the US. state of Idaho Answer with only the city   name.   ,Boise,boise,1,1.0,baseline
+12,spacing_punct,heavy, Question What   is the capital of     the US state     of Idaho Answer with   only the city name,Boise,boise,1,1.0,baseline
+12,unicode_confusables,light,Question: Whaｔ is ｔhe cαрital οf thе U.S. ѕｔatе of Idaho? Anｓwer with onlу the сity naｍе.,Boise,boise,1,1.0,baseline
+12,unicode_confusables,heavy,Ｑuеstion: Wһaｔ іѕ tһе сαpitα1 of the U.5. ѕtａte of Idαһo? Anѕwer wіth on1y thе сiｔy namе.,Boise,do,0,0.0,baseline
+12,emoji,light,Question: What is the capita ⭐ l of the U.S. state of ✅ Idaho? Answer with only the city name.,Boise,boise,1,1.0,baseline
+12,emoji,heavy,Question: What is the capital of the U.S. state ⭐ of Idaho 🙂 ✨ ? Answer ⚪ with o ⚪ ⭐ nly the city name.,Boise,boise,1,1.0,baseline
+13,typos,light,Question: Wgat is the capital of the U.S. state of Illinois? Answer with only the ckty name.,Springfield,chicago,0,0.0,baseline
+13,typos,heavy,Question: Whwt is the cwoital of the U.S. state of Illin;is? Answer with only the city game.,Springfield,chicago,0,0.0,baseline
+13,spacing_punct,light, Question What   is the capital of the U.S. state of Illinois?   Answer with only the city name,Springfield,chicago,0,0.0,baseline
+13,spacing_punct,heavy, Question What is     the capital of     the US state of Illinois Answer     with only the city name   ,Springfield,chicago,0,0.0,baseline
+13,unicode_confusables,light,Quеstiοｎ: What іѕ the сapiｔaｌ of the Ｕ.5. ｓｔate οf Ιllinois? Answｅr witһ onlу the сiｔу name.,Springfield,chicago,0,0.0,baseline
+13,unicode_confusables,heavy,Ｑuestіοn: Wһat is the ｃａpiｔal of the U.5. stαtе οf Iｌlіnoіｓ? Answer wiｔh oｎｌy tｈe ciｔу naｍｅ.,Springfield,san francisco,0,0.0,baseline
+13,emoji,light,Question: What 📎 is the capital of the U.S. state of 🙂 Illinois 📍? Answer with only the ⚪ city name.,Springfield,chicago,0,0.0,baseline
+13,emoji,heavy,Question: What is the capital of the U.S. state of Illinoi ⚪ s? 🙂 🙂 🧭 🔹 Answer with only the city name. ⚪,Springfield,chicago,0,0.0,baseline
+14,typos,light,Question: What is the capitwal of the U.S. state of Indiana? Answer with only th3e city name.,Indianapolis,indianapolis,1,1.0,baseline
+14,typos,heavy,Question: What iz the vapital of the U.S. ztate ot Indiana? Answer with only the cigty name.,Indianapolis,st. louis,0,0.0,baseline
+14,spacing_punct,light, Question: What is the capital of the US state of   Indiana? Answer with only the city   name.,Indianapolis,fort wayne,0,0.0,baseline
+14,spacing_punct,heavy,Question What is the capital     of the US state of       Indiana Answer with only the   city name,Indianapolis,fort wayne,0,0.0,baseline
+14,unicode_confusables,light,Questiｏｎ: Wһαt iѕ ｔhe capitａl of ｔhe U.S. state of Ιndｉaｎa? Answer with only the ｃity ｎame.,Indianapolis,san antonio,0,0.0,baseline
+14,unicode_confusables,heavy,Quеѕtiοn: What ｉｓ ｔһе сαpita1 ｏf ｔhe U.S. sｔαｔe of Ιndiαnα? Aｎѕwer wіｔh οn1y tһe сitу ｎαｍe.,Indianapolis,U.S. stte of ndi,0,0.0,baseline
+14,emoji,light,Question: What is the capital of the U.S. state of 🙂 Indiana 📍? Answer with only the cit ⭐ y ⚪ name.,Indianapolis,fort wayne,0,0.0,baseline
+14,emoji,heavy,Question: What is t ⚪ 🙂 he capital of t 📍 he 🧭 U.S. state of ✨🙂 Indiana 📍⭐? Answer wi ✅ th only the city 📍 name.,Indianapolis,fort wayne,0,0.0,baseline
+15,typos,light,Question: What is the fcapital of the U.S. state of Iowa? Answer with onlg the city name.,Des Moines,st petersburg,0,0.0,baseline
+15,typos,heavy,Question: What is the capitqal 8f the U.S. sta5te of I8wa? Answer with only the cify name.,Des Moines,iowa,0,0.0,baseline
+15,spacing_punct,light,Question   What is   the capital of the U.S. state of Iowa? Answer with only the city name,Des Moines,st petersburg,0,0.0,baseline
+15,spacing_punct,heavy, Question What   is the capital of the     US state of Iowa Answer     with only   the city name,Des Moines,st petersburg,0,0.0,baseline
+15,unicode_confusables,light,Question: What is ｔｈe cａpital of the U.S. state of Iowα? Αnｓwеr wiｔh only the city nαｍe.,Des Moines,st petersburg,0,0.0,baseline
+15,unicode_confusables,heavy,Ｑuestioｎ: Wһat iｓ ｔhe cαpiｔa1 of ｔhe U.S. stαｔе of Iowα? Answеｒ wiｔһ οｎly the сiｔу nαｍе.,Des Moines,st. louis,0,0.0,baseline
+15,emoji,light,Question: What is th ✨ e capital 🙂 of the U.S. state of 🙂 Iowa 📍? Answer with only the city name.,Des Moines,st petersburg,0,0.0,baseline
+15,emoji,heavy,Q ✨ uestion 🗺️ : What is the cap 🗺️ ital of th 🧭 e U.S. 🧭 sta ⚪ te of Iowa? Answer with only the city name.,Des Moines,st. petersburg,0,0.0,baseline
+16,typos,light,Question: What is the capital of the U.S. state kof Kansads? Answer with only the city name.,Topeka,kansas city,0,0.0,baseline
+16,typos,heavy,Question: Wbhat ids the capital of thwe U.S. s4ate of Kansas? Answer with onl4y the city name.,Topeka,wichita,0,0.0,baseline
+16,spacing_punct,light,Question: What is the capital of the U.S. state   of Kansas Answer with   only the city name,Topeka,wichita,0,0.0,baseline
+16,spacing_punct,heavy, Question   What   is the capital of the US state of Kansas Answer with only   the       city name   ,Topeka,wichita,0,0.0,baseline
+16,unicode_confusables,light,Question: What is the сαpіtal of the U.S. ѕtaｔe οf Kansas? Answer witｈ only ｔһe cіty name.,Topeka,wichita,0,0.0,baseline
+16,unicode_confusables,heavy,Quеѕtｉon: Whaｔ іѕ the caрiｔαl οf ｔhе U.S. ѕｔaｔe οf Καnsas? Answer wіｔһ oｎlу ｔhe сity nαme.,Topeka,washington dc,0,0.0,baseline
+16,emoji,light,Question: 🧭 What is the capital of the U.S. state of 🙂 Kansas 📍? Answer with only t 📍 he city name.,Topeka,wichita,0,0.0,baseline
+16,emoji,heavy,Question: What is the c 🔹 a ✨ pital of t 🧭 he 🗺️ U.S. state of ✨🙂 Kansas 📍⭐? Answer ⚪ with only the city ⭐ name.,Topeka,kansas city,0,0.0,baseline
+17,typos,light,Question: What is the capital of the U.S. state ob Kentucky? Answer with omly the city name.,Frankfort,kentucky,0,0.0,baseline
+17,typos,heavy,Q7estion: What is the ca8ital pof the U.S. stahe of Kentucky? Answer with only th1 city name.,Frankfort,kentucky,0,0.0,baseline
+17,spacing_punct,light, Question:   What is the capital of the US. state of Kentucky Answer with only   the city name.,Frankfort,kentucky,0,0.0,baseline
+17,spacing_punct,heavy,Question What     is the capital of the US state   of Kentucky Answer   with   only the city   name,Frankfort,kentucky,0,0.0,baseline
+17,unicode_confusables,light,Quеstion: Wһat is ｔhe caрitαｌ οf the U.S. state of Kеntucky? Aｎswｅr wｉth only the city naｍe.,Frankfort,kentucky,0,0.0,baseline
+17,unicode_confusables,heavy,Quеｓtioｎ: Ｗһαt іs ｔhe cαpitαl οf tһe U.S. staｔe of Keｎｔuсkу? Anѕwеr wіｔh only thе сity ｎaｍe.,Frankfort,kentucky,0,0.0,baseline
+17,emoji,light,Quest ✅ ion: What is the capital of the U. 🗺️ S. state of 🙂 Kentucky 📍? Answer with only the city name.,Frankfort,kentucky,0,0.0,baseline
+17,emoji,heavy,Question: What is t 🙂 ✅ he capital of the U.S. state of ⚪ Kentucky? 📍 Answer w ⚪ ith o 🧭 nly the city name.,Frankfort,kentucky,0,0.0,baseline
+18,typos,light,Question: What is the capital of the U.S. state otf Louisiana? Answer with only the xity name.,Baton Rouge,new orleans,0,0.0,baseline
+18,typos,heavy,Questipon: Wnat is tmhf capital of the U.S. state of Louisiana? Answer with only the city nzme.,Baton Rouge,st. louis,0,0.0,baseline
+18,spacing_punct,light, Question: What is the capital of the   US. state of Louisiana? Answer with only the city   name   ,Baton Rouge,new orleans,0,0.0,baseline
+18,spacing_punct,heavy, Question What is     the capital of the US state of Louisiana   Answer with only     the   city name   ,Baton Rouge,new orleans,0,0.0,baseline
+18,unicode_confusables,light,Question: Wһat is the capitαl of ｔhe U.S. state oｆ Louіsiaｎa? Answеr with only ｔhe city nαｍe.,Baton Rouge,st louis missouri,0,0.0,baseline
+18,unicode_confusables,heavy,Quesｔіοｎ: Whaｔ іѕ the cαрitαl οf the U.S. statе οf Louｉsianα? Αnswеr witһ οnlу ｔhе ｃiｔy nαｍе.,Baton Rouge,louisiana,0,0.0,baseline
+18,emoji,light,Question: What is the capital of the U.S. ⚪ state of 🙂 Louisiana 📍? Answer with only th 🔹 e city name.,Baton Rouge,new orleans,0,0.0,baseline
+18,emoji,heavy,Question: What 🔹 is th 🔹 🙂 e capital 🔹 of 📎 the U.S. state ⭐ of Louisiana? Answer with only the city name.,Baton Rouge,new orleans,0,0.0,baseline
+19,typos,light,Qkestion: What is the capital og the U.S. state of Maine? Answer with only the city name.,Augusta,carlisle,0,0.0,baseline
+19,typos,heavy,XQuestion: What is the capital of the K.S. starte of Maine? Answer with only 4he city name.,Augusta,brooklyn,0,0.0,baseline
+19,spacing_punct,light,Question What   is the   capital of the US. state of Maine? Answer with only the city name.   ,Augusta,carlisle,0,0.0,baseline
+19,spacing_punct,heavy, Question What         is the capital of the US     state of Maine Answer with only the city name   ,Augusta,carlisle,0,0.0,baseline
+19,unicode_confusables,light,Question: Whαt is ｔhe capital of ｔһe U.S. stαte oｆ Maіne? Answer with onlу the ciｔy name.,Augusta,san francisco,0,0.0,baseline
+19,unicode_confusables,heavy,Quеsｔioｎ: What iѕ tｈｅ cαpiｔα1 of ｔһe U.S. ѕtαｔe of Ｍαine? Answer with οｎly thｅ citу ｎaｍe.,Augusta,san francisco,0,0.0,baseline
+19,emoji,light,Question: What is the capital of the U.S. state of ⚪ Maine? Answer wit 📎 h only the city name.,Augusta,carlisle,0,0.0,baseline
+19,emoji,heavy,Question ✅ : What is the c ⚪ apital of the U.S. state of M 📍 aine? 🧭 Answer wi 🔹 th only t 📍 he city name.,Augusta,san francisco,0,0.0,baseline
+20,typos,light,Question: What is the capital of the U.S. state of Marylwand? Answer witnh only the city name.,Annapolis,san antonio,0,0.0,baseline
+20,typos,heavy,Question: SWhat is the capitaal of the U.S. state of Magryland? Answer with only tme city name.,Annapolis,cleveland,0,0.0,baseline
+20,spacing_punct,light, Question What is the capital of the US. state of Maryland?   Answer with only   the city name.   ,Annapolis,baltimore,0,0.0,baseline
+20,spacing_punct,heavy, Question   What is     the   capital of the US state   of   Maryland Answer with only the city name,Annapolis,baltimore,0,0.0,baseline
+20,unicode_confusables,light,Questiοｎ: What is the capita1 οf the U.S. state of Marуlαnd? Aｎswer wiｔh only ｔhe сiｔy nαme.,Annapolis,san francisco,0,0.0,baseline
+20,unicode_confusables,heavy,Quеѕｔioｎ: Whaｔ іs the сapіｔal of tｈe U.S. ѕtatе οｆ Mary1and? Αｎѕwеr wіｔh on1y the сitу naｍе.,Annapolis,nwеr wth on1y the с,0,0.0,baseline
+20,emoji,light,Questio 🧭 n: What is the capital of the U.S. stat ✅ e of Maryland? Answer with only the city name.,Annapolis,columbia,0,0.0,baseline
+20,emoji,heavy,Questio ⭐ n: What is t 📎 he capital 🔹 of the U.S. state of ✨ Ma 📍 ryland? Answe 🧭 r with only the city name.,Annapolis,san antonio,0,0.0,baseline
+21,typos,light,Question: What ix the capital of tyhe U.S. state of Massachusetts? Answer with only the city name.,Boston,boston,1,1.0,baseline
+21,typos,heavy,Quesuyion: What is the ca8pital of the U.S. state of Massachusetts? Answe3r dith only the city name.,Boston,hampshire,0,0.0,baseline
+21,spacing_punct,light,Question What is the capital   of the U.S. state   of Massachusetts Answer with only the city name.,Boston,boston,1,1.0,baseline
+21,spacing_punct,heavy,Question What is the capital of the US state of Massachusetts Answer with   only   the city         name   ,Boston,boston,1,1.0,baseline
+21,unicode_confusables,light,Queѕtiοn: What is the ｃαpitaｌ of the U.S. ѕtαte οf Mαsѕacһuseｔts? Ａnswer wіth oｎly thе city ｎame.,Boston,san francisco,0,0.0,baseline
+21,unicode_confusables,heavy,Questіοｎ: Whαｔ iѕ tｈе cαｐіtal οf ｔhｅ U.5. staｔe οｆ Mαssαсhusеtts? Αnѕwеr wiｔh onｌｙ the ｃity namｅ.,Boston,detroit,0,0.0,baseline
+21,emoji,light,Question: What is the capital of the U.S. state o ✅ f Massachusetts? Answer with on ✨ ly the city name.,Boston,boston,1,1.0,baseline
+21,emoji,heavy,Question: What is the capital of the 🧭 U.S. state of ✨🙂 Massachusetts 📍⭐? ⚪ A 🙂 nswer with only ⚪ the ci 📍 t ⭐ y name.,Boston,boston,1,1.0,baseline
+22,typos,light,Questiojn: Whsat is the capital of the U.S. state of Michigan? Answer with only the city name.,Lansing,st. louis,0,0.0,baseline
+22,typos,heavy,Questikn: QWhat is thwe capital of the U.S. state of Michigan? Xnswer with onlgy the city name.,Lansing,Grand Rapids,0,0.0,baseline
+22,spacing_punct,light,Question: What is the   capital of the US. state of Michigan? Answer with only   the city name,Lansing,st. louis,0,0.0,baseline
+22,spacing_punct,heavy, Question What is the capital of the US state   of Michigan         Answer with only   the city name   ,Lansing,st. louis,0,0.0,baseline
+22,unicode_confusables,light,Question: What is the caрital of tһe U.S. ｓtate of Ｍicｈigan? Aｎsｗer with onlу the сitｙ name.,Lansing,st. louis,0,0.0,baseline
+22,unicode_confusables,heavy,Questiｏn: What іｓ ｔhｅ cαpitα1 oｆ tһe Ｕ.5. ѕtate οf Μｉchigαn? Aｎѕwеr with oｎ1y the сiｔy nａｍе.,Lansing,ichign,0,0.0,baseline
+22,emoji,light,Question: What is the ca 🗺️ pital of the U.S. state of 🙂 Michigan 📍? Answer with o 🗺️ nly the city name.,Lansing,oshkosh,0,0.0,baseline
+22,emoji,heavy,Qu 📎 estion: ✨ What is the capital of the U.S. state of Mi 📎 chigan? Answer 🗺️ with only the cit ✨ y name 🔹 .,Lansing,milwaukee,0,0.0,baseline
+23,typos,light,Question: What is the vcapital of the U.S. state of Minneskta? Answer with only the city name.,Saint Paul,minnesota,0,0.0,baseline
+23,typos,heavy,Question: What is tude capitqal of thw U.S. state of Minnesota? Answer with only the cifty name.,Saint Paul,minnesota,0,0.0,baseline
+23,spacing_punct,light,Question What is   the   capital of the U.S. state of Minnesota? Answer with only the city name   ,Saint Paul,minnesota,0,0.0,baseline
+23,spacing_punct,heavy, Question What     is the   capital of the US state of   Minnesota Answer with     only the city name   ,Saint Paul,minnesota,0,0.0,baseline
+23,unicode_confusables,light,Question: Whaｔ ｉs thе capita1 of ｔhｅ U.5. state of Minｎеsοtα? Anѕwer with on1y tһе сity ｎαme.,Saint Paul,minnesota,0,0.0,baseline
+23,unicode_confusables,heavy,Quеѕtｉon: Wｈaｔ iѕ tһe capita1 οf ｔｈe Ｕ.5. staｔе οｆ Μinｎesoｔa? Aｎswer wiｔh οｎｌу ｔhе cіty naｍе.,Saint Paul,milwaukee,0,0.0,baseline
+23,emoji,light,Question: What is the c ⚪ apital of the U.S. state of 🙂 Minnesota 📍? Answer with only the city na 🗺️ me.,Saint Paul,minnesota,0,0.0,baseline
+23,emoji,heavy,Question: What is the capital of t 🗺️ he U.S. state of ✨🙂 Minnesota 📍⭐? A 📍 ns 🙂 wer with only th 📎 e city 🧭 name. ⚪,Saint Paul,minnesota,0,0.0,baseline
+24,typos,light,Question: What is the cspital of the U.S. state of Mississippi? Answer with only the xity name.,Jackson,mississippi,0,0.0,baseline
+24,typos,heavy,Question: What is the caoital of ythe 6.S. statre of Mississippi? Answer 1ith only the city name.,Jackson,mississippi,0,0.0,baseline
+24,spacing_punct,light, Question: What is the capital of the U.S. state of   Mississippi Answer with   only the city name,Jackson,mississippi,0,0.0,baseline
+24,spacing_punct,heavy,Question   What is the capital     of   the     US state of Mississippi Answer with only the city name   ,Jackson,mississippi,0,0.0,baseline
+24,unicode_confusables,light,Quеsｔion: What is the capita1 of the U.S. sｔaｔe of Misѕissippi? Answer with onlу the cіty namе.,Jackson,mississippi,0,0.0,baseline
+24,unicode_confusables,heavy,Queｓｔiοｎ: Wһａt іs ｔhe cαpіta1 of ｔｈe U.5. sｔatе of Μｉssisѕipрｉ? Αｎswеr wіｔh only tһe citу ｎaｍe.,Jackson,issisipрi,0,0.0,baseline
+24,emoji,light,Question: What is the capital of the U.S. state of Missi ✅ ssippi? Answer with only the ci 🗺️ ty name.,Jackson,mississippi,0,0.0,baseline
+24,emoji,heavy,Question: W 📍 hat ✅ is the capital 🔹 of the U.S. state of Mississippi ✨ 📎 ? Answer with only the c 🔹 ity name.,Jackson,mississippi,0,0.0,baseline
+25,typos,light,Question: What is the capiytal of 3the U.S. state of Missouri? Answer with only the city name.,Jefferson City,st louis,0,0.0,baseline
+25,typos,heavy,Quewtion: What is the capital of the U.S. state of Missouri? Answ2r wuith only thse city hname.,Jefferson City,missouri,0,0.0,baseline
+25,spacing_punct,light, Question What is the capital   of the US. state of Missouri?   Answer with only the city name.,Jefferson City,missouri,0,0.0,baseline
+25,spacing_punct,heavy, Question   What is the capital of the US state   of Missouri Answer with only the   city       name   ,Jefferson City,missouri,0,0.0,baseline
+25,unicode_confusables,light,Quesｔion: Wһat іs the capita1 of the U.S. state of Missoｕri? Ａnswer wiｔh oｎｌy the citу naｍe.,Jefferson City,st louis,0,0.0,baseline
+25,unicode_confusables,heavy,Queѕtｉon: Ｗhαt іѕ the ｃapiｔα1 of tһe U.S. state of Misѕοuｒi? Αnswer with οｎly the ｃіty naｍe.,Jefferson City,st. louis,0,0.0,baseline
+25,emoji,light,Question: What is the ✨ c ✅ apital of the U.S. state of 🙂 Missouri 📍? Answer with only the city name.,Jefferson City,st louis,0,0.0,baseline
+25,emoji,heavy,Question: What is t ✅ h ⭐ e capital of the 🔹 U.S. state of ✨🙂 Missouri 📍⭐? ✨ Answer with only the city 📎 name 🗺️ .,Jefferson City,st. louis,0,0.0,baseline
+26,typos,light,Question: What is tmhe capital of the U.S. state of Montana? Answer w6ith only the city name.,Helena,missoula,0,0.0,baseline
+26,typos,heavy,Question: Whzt is the ca;pital of the U.S. cstate of Montwna? WAnswer with only the city name.,Helena,san francisco,0,0.0,baseline
+26,spacing_punct,light,Question: What is the capital   of the U.S.   state of Montana Answer with only the city name,Helena,boise,0,0.0,baseline
+26,spacing_punct,heavy,Question     What is   the capital of the US state of Montana Answer     with   only the city name,Helena,boise,0,0.0,baseline
+26,unicode_confusables,light,Queѕtiοn: What iѕ the capiｔal of thе U.S. stαtｅ of Montana? Answer wіｔh only the сіty ｎame.,Helena,montana,0,0.0,baseline
+26,unicode_confusables,heavy,Quеｓｔiοn: Wｈaｔ iѕ ｔhe capital of the U.S. sｔatе of Moｎtana? Αｎswеr ｗіｔһ οｎ1y tһе citу ｎamｅ.,Helena,Helena,1,1.0,baseline
+26,emoji,light,Questio ✅ n: What is the capital of the U.S. state of Monta 🗺️ na? Answer with only the city name.,Helena,san francisco,0,0.0,baseline
+26,emoji,heavy,Qu ⭐ estion: What is the capital of the U.S. state of M 📍 ✨ ontana 🙂 ⚪ ? Answer with ✨ only the city name.,Helena,san antonio,0,0.0,baseline
+27,typos,light,Question: What is the capital of the U.S. estate obf Nebraska? Answer with only the city name.,Lincoln,omaha,0,0.0,baseline
+27,typos,heavy,Question: Whxat is the capital otf the JU.S. state of Nebraskwa? Answer with only the city game.,Lincoln,detroit,0,0.0,baseline
+27,spacing_punct,light, Question What is the capital of the US. state of   Nebraska? Answer with only the   city name.,Lincoln,omaha,0,0.0,baseline
+27,spacing_punct,heavy,Question What is the capital of the   US state         of Nebraska Answer with   only the city name,Lincoln,omaha,0,0.0,baseline
+27,unicode_confusables,light,Ｑuesｔion: What iｓ tһe capiｔαl of thｅ U.S. ｓtate of Nebraska? Aｎѕwer with only the ciｔy ｎame.,Lincoln,omaha,0,0.0,baseline
+27,unicode_confusables,heavy,Quеstіοｎ: Wһαｔ is tｈе сαｐіtαｌ of ｔhe Ｕ.S. sｔatе οf Ｎebrαskａ? Αnswer wｉtһ on1у tһe cіty ｎaｍе.,Lincoln,U.S. statе f Nebrska,0,0.0,baseline
+27,emoji,light,📍 Question: What is the capital of the U.S. state of 🙂 Nebraska 📍? Answer with only the cit 📍 y name.,Lincoln,omaha,0,0.0,baseline
+27,emoji,heavy,Question: What is the c 🙂 api 🧭 t 📍 al of the U.S. state of Nebrask ✅ a ⚪ ? Answer with only the cit 🧭 y name.,Lincoln,nebraska,0,0.0,baseline
+28,typos,light,Queestion: What is the capital of the U.S. state of Nevada? Anzwer with only the city name.,Carson City,las vegas,0,0.0,baseline
+28,typos,heavy,Questuion: What is the capital if the U.S. sftate oc Nevada? Answer with only the city namw.,Carson City,las vegas,0,0.0,baseline
+28,spacing_punct,light, Question   What is the   capital of the U.S state of Nevada? Answer with only the city name.,Carson City,las vegas,0,0.0,baseline
+28,spacing_punct,heavy, Question What is the   capital   of   the US state     of Nevada Answer with   only the city name,Carson City,las vegas,0,0.0,baseline
+28,unicode_confusables,light,Quesｔіon: Whａt is the сaрital of thе U.S. statе of Nevada? Answer wіth only ｔhe citу name.,Carson City,san francisco,0,0.0,baseline
+28,unicode_confusables,heavy,Quеѕtіon: Wｈaｔ is tһe сapita1 οf tһе U.5. sｔαtе ｏｆ Nеvaｄa? Αnѕwer witһ οｎ1y the сitу nαｍe.,Carson City,nwer wit n1y the сit,0,0.0,baseline
+28,emoji,light,Question: What is the capital of the U.S. state of 🙂 Nevada 📍? 🧭 Answer with only the c 🔹 ity name.,Carson City,las vegas,0,0.0,baseline
+28,emoji,heavy,Question: Wh 🧭 at is the capit 🔹 al 🗺 ✨ ️ of the U.S. state of ✨🙂 Nevada 📍⭐? Answer with only the city n 🙂 ame ⚪ .,Carson City,las vegas nevada,0,0.0,baseline
+29,typos,light,Question: What is the capital of tnhe U.S. state of New Hampshire? Answer with only the cify name.,Concord,new haven nh,0,0.0,baseline
+29,typos,heavy,Quection: Wbhat is the capital obf the U.S. state of New Hampsnire? Ajswer with only the city name.,Concord,san francisco,0,0.0,baseline
+29,spacing_punct,light, Question What is the capital of the   US. state of New   Hampshire? Answer with only the city name.,Concord,new haven nh,0,0.0,baseline
+29,spacing_punct,heavy, Question What is   the capital   of the US state   of New       Hampshire Answer with only the city name,Concord,new haven nh,0,0.0,baseline
+29,unicode_confusables,light,Questіoｎ: What іs tһe ｃapｉｔαl οf ｔhｅ U.S. staｔｅ ｏf New Ηampshіre? Aｎswer ｗith οｎly tһe city nαme.,Concord,new york new york,0,0.0,baseline
+29,unicode_confusables,heavy,Quеѕｔioｎ: Whａt іs ｔһe сapіtαl οf the U.S. stαte οf Nеw Haｍpshirｅ? Aｎswer wiｔh οnlу thе сiｔу ｎamе.,Concord,rhode island,0,0.0,baseline
+29,emoji,light,Question: What is the 🧭 ca 🧭 pital of the U.S. state of 🙂 New Hampshire 📍? Answer with only the city name.,Concord,hampshire,0,0.0,baseline
+29,emoji,heavy,Question: What is the capital of ⭐ the U.S. state of New Hampsh 🗺️ ire? An ⭐ swer with 🧭 on 🧭 ✨ ly the city name.,Concord,new hampshire,0,0.0,baseline
+30,typos,light,Question: What izs the dapital of the U.S. state of New Jersey? Answer with only the city name.,Trenton,philadelphia,0,0.0,baseline
+30,typos,heavy,Question: What ks the capi3tal of the U.S. state of New Jersey? Ans`wer wifh only the citu name.,Trenton,st. john s,0,0.0,baseline
+30,spacing_punct,light, Question: What is the capital   of   the US. state of New Jersey? Answer with only the city name,Trenton,philadelphia,0,0.0,baseline
+30,spacing_punct,heavy,Question What   is the capital of     the   US state of New Jersey Answer with only   the city   name,Trenton,philadelphia,0,0.0,baseline
+30,unicode_confusables,light,Questіοｎ: Ｗhａt iѕ the capital οf tｈе U.S. staｔe of New Jersey? Answеr with onlу ｔhe city name.,Trenton,philadelphia,0,0.0,baseline
+30,unicode_confusables,heavy,Quesｔіοｎ: Whaｔ іs ｔhe capіｔal οf ｔһe U.5. ѕtαte οf Ｎew Jerseу? Aｎѕwer wіth ｏｎlу the citｙ namе.,Trenton,st. augustine,0,0.0,baseline
+30,emoji,light,Question: What is the 🙂 capital of the U.S. sta 📎 te of New Jersey? Answer with only the city name.,Trenton,philadelphia,0,0.0,baseline
+30,emoji,heavy,Question: What 📍 🗺️ 🧭 is the ca 🙂 pital of the U.S. state of ✨🙂 New Jersey 📍⭐? Answer w 🧭 ith only ✅ the city name.,Trenton,philadelphia,0,0.0,baseline
+31,typos,light,Question: What is the capital of the U.S. state of New Mexico? Agns2er with only the city name.,Santa Fe,albuquerque,0,0.0,baseline
+31,typos,heavy,Question: Whxt is the capital of thf U.S. statfe of New Mexic8? Answer with on.ly the city name.,Santa Fe,new mexico city,0,0.0,baseline
+31,spacing_punct,light, Question: What is the   capital of the US. state   of New Mexico? Answer with only the city name,Santa Fe,albuquerque,0,0.0,baseline
+31,spacing_punct,heavy, Question What is the   capital   of the   US state of   New Mexico Answer with   only   the city name,Santa Fe,albuquerque,0,0.0,baseline
+31,unicode_confusables,light,Quｅstioｎ: What iѕ thе capіtal of thе U.S. staｔe of Nеw Mexico? Anѕwеr with oｎly the city name.,Santa Fe,san antonio,0,0.0,baseline
+31,unicode_confusables,heavy,Qｕeѕtіon: What is ｔhe сαpіｔal of the U.S. stαte of New Μеxicο? Anѕwеr wiｔh ｏnly ｔhｅ ｃiｔy namｅ.,Santa Fe,New York City,0,0.0,baseline
+31,emoji,light,Question: What is th 🔹 e capital of the U.S. state of New M 📎 exico? Answer with only the city name.,Santa Fe,new mexico city,0,0.0,baseline
+31,emoji,heavy,✅ Question: W 📍 🧭 hat is the capital 🙂 of the U.S. sta 🧭 te of New Mexico? Answer with only the 📍 city name.,Santa Fe,albuquerque,0,0.0,baseline
+32,typos,light,Question: What is the caplital of the U.S. state of New York? Answer wi3th only the city name.,Albany,new york city,0,0.0,baseline
+32,typos,heavy,Question: What is th2 capital of the U.S. stahe of New HYork? Answer with only the c8kity name.,Albany,new york city,0,0.0,baseline
+32,spacing_punct,light,Question:   What is   the capital of the US. state of New York Answer with only the city name.,Albany,new york city,0,0.0,baseline
+32,spacing_punct,heavy, Question What   is the capital of the US       state of New York   Answer with   only the city name   ,Albany,new york city,0,0.0,baseline
+32,unicode_confusables,light,Question: What іs tһe capіtαl of ｔhe U.S. sｔate of New Υoｒk? Answer wіth only the cіty nαme.,Albany,new york,0,0.0,baseline
+32,unicode_confusables,heavy,Quеsｔioｎ: Wһαｔ іs tһе ｃaріtal οf thе U.S. ѕｔate of Nеw Υοrk? Answer wіｔһ on1y thｅ сｉｔy ｎamｅ.,Albany,san francisco california,0,0.0,baseline
+32,emoji,light,Question: Wha 🗺️ t is the capital of the U.S. state of 🙂 New York 📍? Answer with only the city nam ✅ e.,Albany,new york city,0,0.0,baseline
+32,emoji,heavy,Question: What is the cap 🔹 ital of the ✅ U.S. state of Ne 🔹 🔹 w Yor ⚪ k? Answer with only the city nam ✨ e.,Albany,wyoming,0,0.0,baseline
+33,typos,light,Question: What is the capital of the U.S. dtate of North Carolina? Answer with only the c6ty name.,Raleigh,carolina,0,0.0,baseline
+33,typos,heavy,Quextion: What iws the fapital of the U.S. state of North Carolina? Answer with onlhy the city name.,Raleigh,carolina beach,0,0.0,baseline
+33,spacing_punct,light, Question What is the capital of the U.S.   state of North   Carolina? Answer with only the city name   ,Raleigh,carolina,0,0.0,baseline
+33,spacing_punct,heavy, Question What is   the   capital of the   US     state of North Carolina   Answer with only the city name,Raleigh,carolina,0,0.0,baseline
+33,unicode_confusables,light,Questioｎ: Whaｔ іs the сapital of the U.S. stａｔe of Norｔh Caroｌinα? Aｎswer with onｌy ｔhe city name.,Raleigh,raleigh,1,1.0,baseline
+33,unicode_confusables,heavy,Quesｔiοｎ: Ｗhαｔ ｉs ｔhе сapіｔａl of tｈe Ｕ.S. stαｔe οf Norｔh Carοlinα? Ａｎswеr wiｔһ οn1ｙ ｔhe cіｔｙ naｍe.,Raleigh,st. louis st. louis missouri,0,0.0,baseline
+33,emoji,light,Question: 🧭 What is the capital of the U.S ✅ . state of 🙂 North Carolina 📍? Answer with only the city name.,Raleigh,carolina,0,0.0,baseline
+33,emoji,heavy,Q 🔹 uestion: What is the capital of 🙂 the U.S. state of North Carolin 📎 a? Answer 🙂 with o 🗺️ nly t 📍 he city name.,Raleigh,raleigh,1,1.0,baseline
+34,typos,light,Question: What ie the capital of the U.S. state of North Dakota? Answer with only the city nahe.,Bismarck,fargo,0,0.0,baseline
+34,typos,heavy,Question: Whah iw the capital of thf U.S. state of North Dakota? Ahnswer with only the cihty name.,Bismarck,fargo,0,0.0,baseline
+34,spacing_punct,light, Question What is the capital of the U.S. state of North   Dakota Answer   with only the city name.,Bismarck,fargo,0,0.0,baseline
+34,spacing_punct,heavy,Question What   is the   capital of the     US state   of North Dakota Answer with   only the city name,Bismarck,fargo,0,0.0,baseline
+34,unicode_confusables,light,Questiｏn: What is ｔhe capital of thе U.S. state ｏf North Dakota? Answer with οｎlу the city name.,Bismarck,fargo,0,0.0,baseline
+34,unicode_confusables,heavy,Queѕtiｏｎ: Ｗhaｔ іs thе capіｔαl οf thе U.5. ѕｔate οf Nortһ Dakοｔα? Αnѕwеr wіｔh οｎly ｔhe сіty ｎαｍe.,Bismarck,nwеr wth nw,0,0.0,baseline
+34,emoji,light,🔹 Question: What is the capital of the U.S. state of North Dakota ⭐ ? Answer with only the city name.,Bismarck,fargo,0,0.0,baseline
+34,emoji,heavy,Question: What 📍 is the ca ✅ pital of the U.S. state of North Dakota 🗺️ ? 🙂 Answer wi 🙂 th only th 🔹 e city name.,Bismarck,minneapolis,0,0.0,baseline
+35,typos,light,Question: What is 3the capital of the U.S. state of Ohi8? Answer with only the city name.,Columbus,ohio,0,0.0,baseline
+35,typos,heavy,Question: What is thf capital icf the U.S. state ;f Ohio? Answer with onlhy the city name.,Columbus,ohio,0,0.0,baseline
+35,spacing_punct,light, Question What is the capital of the U.S. state   of Ohio   Answer with only the city name.   ,Columbus,ohio,0,0.0,baseline
+35,spacing_punct,heavy, Question What is the capital of the US state of Ohio Answer with only         the city     name   ,Columbus,ohio,0,0.0,baseline
+35,unicode_confusables,light,Question: What iѕ ｔhe cαpital of ｔｈe U.S. ｓｔaｔe ｏf Oһio? Aｎsｗer with οnlу thе cｉｔy namе.,Columbus,san francisco,0,0.0,baseline
+35,unicode_confusables,heavy,Questіoｎ: Wｈat іs ｔhe cαpita1 οf thｅ U.S. ｓｔαｔe of 0hіo? Αnѕwer wіtһ οｎ1у tһe ciｔy nαmе.,Columbus,nwer wt n1у,0,0.0,baseline
+35,emoji,light,✨ Question: What is th 🗺️ e capital of the U.S. state of 🙂 Ohio 📍? Answer with only the city name.,Columbus,ohio,0,0.0,baseline
+35,emoji,heavy,Question: What is the 🔹 ✅ capital of the 📎 U. 📍 S. state of ✨🙂 Ohio 📍⭐? Answer with only the c 📎 ✨ ity name.,Columbus,ohio,0,0.0,baseline
+36,typos,light,Question: What is the czapital of the U.S. state of Oklahoma? Answer w8th only the city name.,Oklahoma City,oklahoma city,1,1.0,baseline
+36,typos,heavy,1kuestion: What is the capital of the U.S. stwate 9of Oklahoma? Answer with onl4 the city name.,Oklahoma City,oklahoma city,1,1.0,baseline
+36,spacing_punct,light,Question What is the   capital   of the U.S. state of Oklahoma Answer with only the city name.   ,Oklahoma City,oklahoma city,1,1.0,baseline
+36,spacing_punct,heavy, Question What is the capital of the US state   of Oklahoma Answer     with only the city       name   ,Oklahoma City,oklahoma city,1,1.0,baseline
+36,unicode_confusables,light,Question: Wｈat іs ｔhe capital of tһe U.S. statе ｏf Ｏκlahoma? Αnswer witһ only the city ｎaｍe.,Oklahoma City,olahoma city,0,0.5,baseline
+36,unicode_confusables,heavy,Queｓtioｎ: Wｈat is the cαpitα1 of ｔһe U.5. sｔate οｆ 0klαhοmα? Anѕwеr wіth on1у tһe cіty ｎaｍe.,Oklahoma City,klhm,0,0.0,baseline
+36,emoji,light,Question: What is the capital of the U.S. state of 🙂 Oklahoma 📍? ⚪ Answer with only the 🔹 city name.,Oklahoma City,oklahoma city,1,1.0,baseline
+36,emoji,heavy,Question: What is the capital of 🔹 the U.S. ⚪ state of ✨🙂 Oklahoma 📍⭐? Answer with ⚪ 🗺️ only th 🗺 ✅ ️ e city name.,Oklahoma City,oklahoma city,1,1.0,baseline
+37,typos,light,Question: What is the cap7tal of the U.S. state of Oregon? Answer w6th only the city name.,Salem,portland,0,0.0,baseline
+37,typos,heavy,Question: Ehat ies the capital of the U.S. state of Orefgon? Ansswer with only the cihty name.,Salem,portland,0,0.0,baseline
+37,spacing_punct,light,Question What   is the   capital of the U.S. state of Oregon? Answer with only the city name,Salem,sacramento,0,0.0,baseline
+37,spacing_punct,heavy, Question   What   is the   capital of the     US state of Oregon Answer with only the   city name,Salem,sacramento,0,0.0,baseline
+37,unicode_confusables,light,Question: Whaｔ is the cαpіｔa1 of the U.S. state ｏf Orеgon? Ansｗer wіtｈ οnly ｔһe city nαme.,Salem,portland,0,0.0,baseline
+37,unicode_confusables,heavy,Quеѕtioｎ: Wｈαｔ іѕ tһe сαрital of thе U.S. ѕｔαte of Orｅgοｎ? Aｎѕwer ｗіｔｈ οn1y the ciｔу name.,Salem,ttte of oregon,0,0.0,baseline
+37,emoji,light,Question: What is th 🧭 e capital of the U.S. state of 🙂 Oregon 📍? Answer ⭐ with only the city name.,Salem,sacramento,0,0.0,baseline
+37,emoji,heavy,Question: 📍 What i 🙂 s the capital o ✅ f ⭐ the U.S. state of ✨🙂 Oregon 📍⭐? 📍 Answer with only the city n 🗺️ ame.,Salem,sacramento,0,0.0,baseline
+38,typos,light,"Question: What is the capital of the U.S. statr of Pennsylvania? Answer with only the city na,e.",Harrisburg,philadelphia,0,0.0,baseline
+38,typos,heavy,Qhestion: What is the capital of the U.S. stzate of Pennsylvania? Answer wi3b omnly the city name.,Harrisburg,philadelphia,0,0.0,baseline
+38,spacing_punct,light, Question What is the capital of the   US. state of Pennsylvania? Answer   with only the city name.,Harrisburg,pittsburgh,0,0.0,baseline
+38,spacing_punct,heavy,Question What is   the   capital   of the US state of Pennsylvania     Answer with only the   city name   ,Harrisburg,pittsburgh,0,0.0,baseline
+38,unicode_confusables,light,Question: Wｈaｔ is ｔhe сaрitaｌ of the U.S. state of Pennsylvaniα? Answer with οn1y the cіtу namе.,Harrisburg,philadelphia,0,0.0,baseline
+38,unicode_confusables,heavy,Quеѕtｉｏn: What is ｔһe cαpiｔal οf tһe U.S. sｔαｔe οf Ρｅｎｎѕy1vαnіa? Answer wiｔһ οnlу ｔһе cｉtу ｎaｍe.,Harrisburg,san francisco,0,0.0,baseline
+38,emoji,light,Question: What is the capital of the U.S. state of 🙂 Pennsylvania 📍? Answer with onl 🙂 🙂 y the city name.,Harrisburg,philadelphia,0,0.0,baseline
+38,emoji,heavy,Question: What is t 📎 he capita 📍 l 📎 o 🔹 f the U.S. state of ✨🙂 Pennsylvania 📍⭐? Answer 🧭 with only the cit 🔹 y name.,Harrisburg,philadelphia,0,0.0,baseline
+39,typos,light,Question: Whart is the capital of the U.S. state of Rhode Island? Answer with only rhe city name.,Providence,rhode island,0,0.0,baseline
+39,typos,heavy,Auesyion: What is the capital of the U.S. state of Rhode Ielansd? Answer with only the city nwame.,Providence,oxford,0,0.0,baseline
+39,spacing_punct,light, Question: What is the capital of the U.S   state of   Rhode Island? Answer with only the city name,Providence,rhode island,0,0.0,baseline
+39,spacing_punct,heavy, Question What is the   capital of   the US state of   Rhode Island   Answer with   only the   city name,Providence,rhode island,0,0.0,baseline
+39,unicode_confusables,light,Questіon: What is the capitaｌ of the U.S. statｅ οf Rhode Is1aｎd? Aｎswer wiｔh on1y thе ciｔy name.,Providence,rhode island,0,0.0,baseline
+39,unicode_confusables,heavy,Ｑueѕｔioｎ: Wһαｔ іѕ tһe cαpitα1 of ｔhe Ｕ.S. state of Rһode Ιslanｄ? Aｎswer ｗitһ oｎly tһe сіtу ｎame.,Providence,san francisco,0,0.0,baseline
+39,emoji,light,Question: What is the capital of th ⚪ e U.S. state of 🙂 Rhode Island 📍? Answer with only 📎 the city name.,Providence,rhode island,0,0.0,baseline
+39,emoji,heavy,📍 Question: What 🔹 📎 is the ca ✨ pi 🔹 tal of the U.S. state of ✨🙂 Rhode Island 📍⭐? Answer with only the city na ⚪ me.,Providence,rhode island,0,0.0,baseline
+40,typos,light,`uestion: What is the czapital of the U.S. state of South Carolina? Answer with only the city name.,Columbia,columbia,1,1.0,baseline
+40,typos,heavy,"Question: What is the capital of the U.XS. state of AWSouth Caro,lina? Ansawer with only the city name.",Columbia,san antonio,0,0.0,baseline
+40,spacing_punct,light,Question: What is   the capital of the US. state of South Carolina? Answer with only the city   name,Columbia,columbia,1,1.0,baseline
+40,spacing_punct,heavy,Question What is the capital   of the US state   of       South Carolina   Answer with only the city name   ,Columbia,columbia,1,1.0,baseline
+40,unicode_confusables,light,Question: What iｓ the cａpita1 of the U.S. state of 5ouｔh Сaｒolinα? Aｎswer wіｔh only the citу name.,Columbia,san antonio,0,0.0,baseline
+40,unicode_confusables,heavy,Questіon: Wһαｔ is the сaрital of the U.Ｓ. stαte οf 5outһ Cαｒo1inα? Αｎswеr wіｔһ oｎly tһe сіty ｎaｍe.,Columbia,u s of america,0,0.0,baseline
+40,emoji,light,Question: What is the capital ✅ of the U.S. s ✅ tate of South Carolina? Answer with only the city name.,Columbia,columbia,1,1.0,baseline
+40,emoji,heavy,Question: 📍 What 📎 is 🙂 the capital of the U.S. state of South Carolin 🙂 a? Answer w ⚪ ith only the ci 🧭 ty name.,Columbia,charlotte,0,0.0,baseline
+41,typos,light,Question: What is the capital of tye U.S. state of South Rakota? Answer with only the city name.,Pierre,savannah,0,0.0,baseline
+41,typos,heavy,Quesgion: What iw the capitxl of the U.S. state of South Dakota? ZAnswet with only the city name.,Pierre,minneapolis,0,0.0,baseline
+41,spacing_punct,light, Question What is the   capital of the U.S. state of South Dakota   Answer with only the city name.   ,Pierre,sioux falls,0,0.0,baseline
+41,spacing_punct,heavy,Question   What is the capital of the US state of South Dakota Answer         with only the city   name   ,Pierre,sioux falls,0,0.0,baseline
+41,unicode_confusables,light,Question: What is ｔhe capiｔal οf tһe U.S. state of Sοutһ Dakota? Answer witｈ onlｙ the ciｔy namｅ.,Pierre,minneapolis,0,0.0,baseline
+41,unicode_confusables,heavy,Queѕｔiοｎ: Wһat ｉs the сαpіｔal of ｔｈe U.5. statе οf 5outh Dakotα? Aｎswer wіtһ oｎ1y the ｃity ｎαme.,Pierre,minneapolis minneapolis minnesota,0,0.0,baseline
+41,emoji,light,Question: 🧭 What is the capital 🗺️ of the U.S. state of 🙂 South Dakota 📍? Answer with only the city name.,Pierre,sturgis,0,0.0,baseline
+41,emoji,heavy,Question: What ⚪ is the capital of t 🧭 he U.S. state of So 📎 uth Dakota? Answer with on 🗺️ ly th 🙂 e city n 🙂 ame.,Pierre,minneapolis,0,0.0,baseline
+42,typos,light,Questlon: What is the capital of the U.S. state of Tennessee? Answer w7ith only the city name.,Nashville,tennessee,0,0.0,baseline
+42,typos,heavy,Question: What is fthe cxapital of the YU.W. state of Tennessee? Ans2wer with only the city name.,Nashville,tennessee,0,0.0,baseline
+42,spacing_punct,light, Question: What is the capital of the US. state of Tennessee Answer with only the     city name.,Nashville,tennessee,0,0.0,baseline
+42,spacing_punct,heavy, Question What is the capital of the US state     of Tennessee   Answer with       only the city name   ,Nashville,tennessee,0,0.0,baseline
+42,unicode_confusables,light,Qｕestion: What іs the capital of ｔhe Ｕ.S. stαte of Τennessee? Aｎswer wіth onｌy the city name.,Nashville,nashville tennessee,0,0.6666666666666666,baseline
+42,unicode_confusables,heavy,Quеstiοn: Whαｔ іѕ thе cαpіtal of the U.5. sｔａtе of Τeｎnessее? Answer wｉｔһ oｎlу the cіty name.,Nashville,roosevelt,0,0.0,baseline
+42,emoji,light,Question: What is the c ✅ apital of the U.S. state of Tennes 📍 see? Answer with only the city name.,Nashville,san francisco,0,0.0,baseline
+42,emoji,heavy,Question: What is the capital of ⚪ the U.S. 📍 state of Tenness ✅ e 📍 e? Answer with onl ⭐ y t 🙂 he city name.,Nashville,montgomery tennessee,0,0.0,baseline
+43,typos,light,Question: What is the xapital of the U.S. state of Texas? Answer with obly the city name.,Austin,san antonio,0,0.0,baseline
+43,typos,heavy,"Questi7on: 1What is the capital of the U.S. state of Texas? Answer with on,ly the cify nxme.",Austin,san antonio,0,0.0,baseline
+43,spacing_punct,light,Question What is the   capital of the US. state of Texas? Answer with only the city   name.   ,Austin,austin,1,1.0,baseline
+43,spacing_punct,heavy,Question What is   the capital of the     US state     of   Texas Answer with only the city name,Austin,san antonio,0,0.0,baseline
+43,unicode_confusables,light,Questioｎ: What is the cαрital of ｔhе U.5. sｔatе of Texas? Anѕwer with oｎlｙ tһe ｃity name.,Austin,austin,1,1.0,baseline
+43,unicode_confusables,heavy,Qｕеstіοｎ: What іѕ ｔһｅ capｉtα1 of ｔhe U.S. staｔe of Tеxas? Anｓwer ｗiｔh only ｔhе cｉtу nαｍe.,Austin,san antonio,0,0.0,baseline
+43,emoji,light,Question: What 🗺️ is the capital of the U.S. state of 🙂 Texas 📍? Answer with only the city nam ⭐ e.,Austin,san antonio,0,0.0,baseline
+43,emoji,heavy,Question: 🗺️ What i ✅ 🧭 s the capital of the 📎 U.S. state o 🗺️ f Texas? Answer with only the city nam 🗺️ e.,Austin,san antonio,0,0.0,baseline
+44,typos,light,Qusstion: What is the capital if the U.S. state of Utah? Answer with only the city name.,Salt Lake City,utah city,0,0.4,baseline
+44,typos,heavy,Question: What is the ca8pital of th3e U.S. state of Utah? Answ3e4 with onluy the city name.,Salt Lake City,utah city,0,0.4,baseline
+44,spacing_punct,light,Question: What   is the capital of the U.S state of Utah?   Answer with only the city name,Salt Lake City,utah city,0,0.4,baseline
+44,spacing_punct,heavy, Question What is the capital   of the US   state of Utah   Answer with only the   city     name   ,Salt Lake City,utah city,0,0.4,baseline
+44,unicode_confusables,light,Question: What is thе сapiｔa1 of thе U.S. stαte of Utah? Answer with only the city naｍｅ.,Salt Lake City,utah city,0,0.4,baseline
+44,unicode_confusables,heavy,Qｕesｔioｎ: What іs the cａpіtal of tһe U.S. stαte of Uｔah? Ａnѕwer wiｔh οｎ1y the city namе.,Salt Lake City,utah city utah,0,0.4,baseline
+44,emoji,light,Question: What is the capital o 🗺️ f the U.S. state of 🙂 Utah 📍? Answer with o 🔹 nly the city name.,Salt Lake City,utah city,0,0.4,baseline
+44,emoji,heavy,Question: Wh ⚪ 🗺️ at is the ✅ capital of the U.S. state of ✨🙂 Utah 📍⭐? Answer ✅ with only the 🗺️ city nam 📎 e.,Salt Lake City,utah city,0,0.4,baseline
+45,typos,light,Question: What is the capital of th1 U.S. state of Vermont? Answer with only hthe city name.,Montpelier,vermont,0,0.0,baseline
+45,typos,heavy,Qu1estion: 1What is the capital of the U.S. stat1e of Vermon5? Answer with 9nly the city name.,Montpelier,san francisco,0,0.0,baseline
+45,spacing_punct,light, Question: What is the capital of the US. state of Vermont? Answer with only   the city   name   ,Montpelier,vermont,0,0.0,baseline
+45,spacing_punct,heavy, Question What is the capital of the US   state of       Vermont   Answer with   only the city name,Montpelier,vermont,0,0.0,baseline
+45,unicode_confusables,light,Quеstion: What іs thе capital οf the Ｕ.Ｓ. state of Verｍｏｎt? Answer with οnly the cіty name.,Montpelier,vermont,0,0.0,baseline
+45,unicode_confusables,heavy,Quｅѕｔiοn: Whαt is tһе сａpiｔaｌ of ｔһе U.5. stαｔe of Vｅrｍont? Αnѕwer with oｎｌy ｔһe ciｔｙ ｎame.,Montpelier,roosevelt,0,0.0,baseline
+45,emoji,light,Ques 📎 tion: What is the capital of the U.S. state of Vermont ✨ ? Answer with only the city name.,Montpelier,vermont,0,0.0,baseline
+45,emoji,heavy,Ques 🧭 tion: What 📍 is ✨ the 🧭 capital of the U.S. state of ✨🙂 Vermont 📍⭐? Answer ✅ with only the city na ✨ me.,Montpelier,ottawa,0,0.0,baseline
+46,typos,light,Questuion: What is the capital of the U.S. state of Virginia? Answer with ;only the city name.,Richmond,richmond virginia,0,0.6666666666666666,baseline
+46,typos,heavy,Qhuestion: What is the capital of 3the U.S. zstate of Virginia? Andwer with ogly the city name.,Richmond,richmond virginia,0,0.6666666666666666,baseline
+46,spacing_punct,light, Question: What is   the capital of   the US state of Virginia? Answer with only the city name.,Richmond,richmond virginia,0,0.6666666666666666,baseline
+46,spacing_punct,heavy, Question     What is the   capital of the US state of Virginia   Answer with     only the city name   ,Richmond,charleston,0,0.0,baseline
+46,unicode_confusables,light,Quеѕｔiｏn: Ｗһαt iѕ ｔhe capital of thｅ U.S. state of Virginia? Answer witһ only the ciｔу ｎαme.,Richmond,richmond virginia,0,0.6666666666666666,baseline
+46,unicode_confusables,heavy,Queѕｔioｎ: Wһat іs the сaріtal of ｔhе U.5. stａtе of Virginiａ? Αｎswer wiｔһ oｎlу the ciｔу ｎαｍе.,Richmond,rhode island,0,0.0,baseline
+46,emoji,light,Question: What is the capital of the U.S. state of Virgin ✨ ia? Answer with only the ✅ city name.,Richmond,charleston,0,0.0,baseline
+46,emoji,heavy,Qu 🔹 est 🔹 ion: What is t ✅ he capita ✨ l of the U.S. state of ✨🙂 Virginia 📍⭐? Answ ✨ er with only the city name ✨ .,Richmond,charleston,0,0.0,baseline
+47,typos,light,Qhuestion: What is the capital of the U.WS. state of Washington? Answer with only the city name.,Olympia,seattleites,0,0.0,baseline
+47,typos,heavy,Question: Wmat is tue capitao orf the U.S. state of Wash7ington? Answer with only the city name.,Olympia,seattleites,0,0.0,baseline
+47,spacing_punct,light, Question:   What is the capital of the US state of Washington? Answer   with only the city name.   ,Olympia,seattleites,0,0.0,baseline
+47,spacing_punct,heavy,Question What is the capital of the     US state of Washington   Answer   with only the     city name,Olympia,seattleites,0,0.0,baseline
+47,unicode_confusables,light,Queѕｔiοn: What is the caрitαl οf ｔhe U.5. state ｏf Washinｇｔon? Αnswеr wｉth only the cｉty nαme.,Olympia,portland washington portland washington portland washington port,0,0.0,baseline
+47,unicode_confusables,heavy,Quеsｔіοn: Whaｔ іѕ ｔhе caｐｉtαl of thе U.5. ѕtaｔе οf Washiｎgｔoｎ? Αｎѕwｅr wіth οｎ1y ｔһe city nａｍe.,Olympia,"Washington, D.C.",0,0.0,baseline
+47,emoji,light,Question: What is the capital of the U.S. state of 🙂 Washington 📍? An 🙂 swer with only the city 🔹 name.,Olympia,seattleites,0,0.0,baseline
+47,emoji,heavy,Question 🔹 ✅ : What i ✨ s the capital of the U.S. state of Washingto 🔹 n? ✨ Answer with only 📍 the city name.,Olympia,washington,0,0.0,baseline
+48,typos,light,Question: What is the capital of the U.S. state of West Vlirbinia? Answer with only the city name.,Charleston,san francisco,0,0.0,baseline
+48,typos,heavy,Question: What is the ca9pital of 4he U.S. sta3e of West Virginia? Amnxswer with only the city name.,Charleston,wyoming,0,0.0,baseline
+48,spacing_punct,light, Question:     What is the capital of the US. state of West Virginia? Answer with only the city name   ,Charleston,wyoming,0,0.0,baseline
+48,spacing_punct,heavy, Question What is the capital     of the     US   state of West   Virginia Answer with only the city name,Charleston,wyoming,0,0.0,baseline
+48,unicode_confusables,light,Quｅsｔｉon: Whaｔ is the capiｔal of the U.S. ｓｔate of West Virginia? Aｎｓwer with οn1у the ciｔy nａｍe.,Charleston,wyoming,0,0.0,baseline
+48,unicode_confusables,heavy,Quｅѕtｉon: Whａt iѕ the сaріtal of thе Ｕ.S. stαte ｏf Ｗｅѕｔ Virgіｎia? Answer with on1y ｔһе сiｔy nαme.,Charleston,washington d c,0,0.0,baseline
+48,emoji,light,Question: What is the capital of the U.S. state of West Virgi ⚪ nia? Answer with o ⚪ nly the city name.,Charleston,monroe,0,0.0,baseline
+48,emoji,heavy,Que ⭐ s 📎 tion: What is the capital of the ✅ U.S. state of ✨🙂 West Virginia 📍⭐? Answer wi 🙂 th 📎 only 📎 the city name.,Charleston,wyoming,0,0.0,baseline
+49,typos,light,Question: What is the capital of the U.S. state of Wisconsin? Anwswer awith only the city name.,Madison,milwaukee,0,0.0,baseline
+49,typos,heavy,Ques4tion: Whqt is the capital of the U.S. state of Wisconsin? Answer with ojl5 tnhe city name.,Madison,milwaukee,0,0.0,baseline
+49,spacing_punct,light, Question What is the capital of the U.S.   state of Wisconsin Answer with only   the city name.,Madison,milwaukee,0,0.0,baseline
+49,spacing_punct,heavy,Question   What is the   capital of the   US state of Wisconsin Answer   with only the   city   name,Madison,milwaukee,0,0.0,baseline
+49,unicode_confusables,light,Qｕestion: Wｈat іs the capita1 of thｅ U.S. ѕtatе οf Wiscoｎѕin? Aｎswer with onlу the citу name.,Madison,milwaukee,0,0.0,baseline
+49,unicode_confusables,heavy,Questiοn: Whａｔ іs ｔhe capitαl oｆ thе U.5. ѕｔaｔe of Wisconѕiｎ? Aｎswer wіｔһ οnｌy the сiｔy ｎαmе.,Madison,wt n only the сity nm,0,0.0,baseline
+49,emoji,light,Question ⭐ : 🗺️ What is the capital of the U.S. state of 🙂 Wisconsin 📍? Answer with only the city name.,Madison,milwaukee,0,0.0,baseline
+49,emoji,heavy,Questio 🙂 n: What i ✨ s the c 🙂 apital of the U.S. state of ✨🙂 Wisconsin 📍⭐? Answer ⭐ with o ⚪ nly the city n 🧭 ame.,Madison,oshkosh,0,0.0,baseline
+50,typos,light,Question: What is yhe capital of the U.S. state if Wyoming? Answer with only the city name.,Cheyenne,laramie,0,0.0,baseline
+50,typos,heavy,Question: What is the calital of 3thfe U.S. state of Wyoming? Answer with only the city namw.,Cheyenne,laramie,0,0.0,baseline
+50,spacing_punct,light,Question: What is   the capital of   the U.S state of Wyoming? Answer with only the city name   ,Cheyenne,laramie,0,0.0,baseline
+50,spacing_punct,heavy, Question What is the capital of the US       state   of Wyoming Answer     with only the city name   ,Cheyenne,laramie,0,0.0,baseline
+50,unicode_confusables,light,Questіοn: What is the capita1 of the U.S. state of Wуomіng? Answеr with onlу tһe ciｔy ｎaｍе.,Cheyenne,boise,0,0.0,baseline
+50,unicode_confusables,heavy,Quesｔіοｎ: Wｈａt is the capitαl of ｔһe U.S. sｔαｔе of Wyｏmiｎg? Answer wіth oｎ1ｙ thе сitｙ nａme.,Cheyenne,wyoming,0,0.0,baseline
+50,emoji,light,Question: What is 🔹 the capital of the U.S. state of Wyomi ⭐ ng? Answer with only the city name.,Cheyenne,wyoming,0,0.0,baseline
+50,emoji,heavy,Q 🔹 uest ⭐ ion: What is the cap ✨ 🙂 ital of 🧭 the U.S. state of ✨🙂 Wyoming 📍⭐? Answer with onl 🧭 y the city name.,Cheyenne,montana,0,0.0,baseline

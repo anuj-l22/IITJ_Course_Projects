@@ -1,0 +1,32 @@
+{
+  "reader": {
+    "tool_calls": 1,
+    "tool_latency_ms_total": 238,
+    "agent_latency_ms": 108594
+  },
+  "metareviewer": {
+    "tool_calls": 1,
+    "tool_latency_ms_total": 3472,
+    "agent_latency_ms": 13072
+  },
+  "critic": {
+    "tool_calls": 1,
+    "tool_latency_ms_total": 599,
+    "agent_latency_ms": 13126
+  },
+  "final": "Novelty:\nCurrent advanced AI models (Large Multimodal Models or LMMs) mostly focus on a few major languages and regions, often struggling with less common languages and diverse cultural contexts. Existing tests for these models are limited, often lacking cultural depth or covering only a small number of languages. This paper introduces ALM-bench, the biggest and most comprehensive benchmark to date for evaluating LMMs, covering 100 languages (many of which are rarely studied) and 13 distinct cultural topics.\n\nMethod:\nThe researchers created the \"All Languages Matter Benchmark\" (ALM-bench) to test LMMs on their ability to understand images and text across 100 languages. This benchmark includes questions about 13 specific cultural aspects (like traditions, music, and architecture) and also evaluates general visual understanding. Questions are presented in various formats, including true/false, multiple choice, and open-ended questions (both short and long answers). To ensure accuracy and cultural relevance, native speakers from 73 countries meticulously verified all 22,700 questions and answers. They then used ALM-bench to evaluate 16 different state-of-the-art LMMs.\n\nResults:\nThe evaluations revealed that current LMMs perform poorly when dealing with less common languages and cultures. There's a significant performance gap, with commercial models (like GPT4o) performing 27% better than the best open-source models. The analysis also highlighted that LMMs particularly struggle with understanding cultures from underrepresented regions, such as Southeast Asia and West Africa. Interestingly, even simple prompting techniques (giving the AI specific instructions) can help improve LMM performance.\n\nTakeaways:\n- Current advanced AI models (LMMs) are not truly global; they struggle significantly with understanding diverse cultures and less common languages, limiting their real-world applicability.\n- The new ALM-bench provides a crucial tool for pushing AI development towards better cultural and linguistic inclusivity, offering a comprehensive way to test and improve models.\n- There's a clear need for more research and development, especially for open-source models, to improve their understanding of underrepresented languages and cultural contexts worldwide.\n\nReadings:\n- All Languages Matter: Evaluating LMMs on Culturally Diverse 100 Languages (arXiv:2411.16508v4)\n- Annotating Cognates and Etymological Origin in Turkic Languages (arXiv:1501.03191v1)\n",
+  "citations": [
+    {
+      "source": "http://arxiv.org/abs/2411.16508v4",
+      "snippet": null
+    },
+    {
+      "source": "http://arxiv.org/abs/1501.03191v1",
+      "snippet": null
+    }
+  ],
+  "tool_call_count": 3,
+  "latency_ms_total": 135060,
+  "arxiv_query": "cultural languages language arxiv models alm-bench across gpt-4o",
+  "pdf_used": "data/uploads/2411.16508v4 (1).pdf"
+}

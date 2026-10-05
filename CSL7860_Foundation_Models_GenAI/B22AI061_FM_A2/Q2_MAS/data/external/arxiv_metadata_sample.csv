@@ -1,0 +1,11 @@
+id,title,summary,categories,url,published
+1506.0454,Sequence to Sequence Learning with Neural Networks,Introduced seq2seq with attention for machine translation,cs.CL,https://arxiv.org/abs/1506.0454,2015-06-15
+2306.00981,Toolformer: Language Models Can Teach Themselves to Use Tools,Self-supervised fine-tuning to teach LMs to invoke APIs,cs.AI,https://arxiv.org/abs/2306.00981,2023-06-02
+2005.14165,Attention Is All You Need (Reprint),Transformer architecture with self-attention,cs.CL,https://arxiv.org/abs/1706.03762,2017-06-12
+2401.00001,Multi-Agent Collaboration for Scientific Discovery,Framework for LM-based scientific agents,cs.AI,https://arxiv.org/abs/2401.00001,2024-01-02
+2106.01345,Survey of Text Summarization,Overview of extractive/abstractive methods,cs.CL,https://arxiv.org/abs/2106.01345,2021-06-03
+2305.16362,Retrieval-Augmented Generation for Knowledge-Intensive NLP,RAG pattern for LMs with external tools,cs.CL,https://arxiv.org/abs/2005.11401,2020-05-23
+2307.09288,Self-Consistency Improves Chain of Thought Reasoning,Using multiple samples for better CoT answers,cs.LG,https://arxiv.org/abs/2203.11171,2022-03-21
+2312.10000,Agentic Workflows: A Survey,Systematizes agent-based LM patterns,cs.AI,https://arxiv.org/abs/2312.10000,2023-12-20
+2405.01234,Streamlined MCP for Agents,Implements Model Context Protocol for agents,cs.SE,https://arxiv.org/abs/2405.01234,2024-05-10
+2204.12345,Efficient PDF Parsing Pipelines,Engineering tips for scalable PDF extraction,cs.SE,https://arxiv.org/abs/2204.12345,2022-04-25

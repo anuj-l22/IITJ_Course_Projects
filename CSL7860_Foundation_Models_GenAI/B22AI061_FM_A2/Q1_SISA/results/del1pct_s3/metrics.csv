@@ -1,0 +1,2 @@
+exp_name,simulate_delete,retrained_slices,total_slices,fraction_retrained,wall_clock_sec,test_acc,test_f1_macro,rss_bytes,gpu_max_mem_bytes,params_per_model,delete_strategy,delete_shards_targeted,delete_count,impacted_shards,delta_acc_vs_baseline,time_saved_frac_vs_baseline
+del1pct_s3,0.01,15,60,0.25,40.31444811820984,0.2729,0.2341228841460473,1624113152,221121536,288298,cluster_shards,5,500,5,-0.005300000000000027,0.7473517675946552

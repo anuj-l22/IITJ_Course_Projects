@@ -1,0 +1,11 @@
+*.pdf binary
+*.png binary
+*.jpg binary
+*.jpeg binary
+*.webp binary
+*.gif binary
+*.wav binary
+*.npy binary
+*.pkl binary
+*.pt binary
+*.pth binary

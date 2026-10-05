@@ -1,0 +1,26 @@
+# Default config for SISA with CIFAR-10
+dataset: cifar10
+data_root: ./data
+purchase_path: null
+
+# SISA structure
+K: 10
+S: 2
+
+# Training
+epochs_per_slice: 15
+batch_size: 128
+lr: 0.05
+weight_decay: 0.0005
+momentum: 0.9
+optimizer: sgd
+seed: 1337
+
+# Model
+model: small_cnn
+channels: [32, 64, 128]
+dropout: 0.2
+
+# Compute
+num_workers: 4
+device: auto

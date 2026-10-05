@@ -1,0 +1,18 @@
+[
+  {
+    "category":"other",
+    "noise_type":"clean",
+    "noise_level":"none",
+    "prompt_snippet":"Question: What is the capital of the U.S. state of Alaska? Answer with only the city name.",
+    "gold":"Juneau",
+    "pred":"alaska"
+  },
+  {
+    "category":"extra_verbiage",
+    "noise_type":"unicode_confusables",
+    "noise_level":"heavy",
+    "prompt_snippet":"Ｑueѕtiοn: Wһaｔ іѕ the сａpｉtα1 of thе U.S. state of Conneｃtіcut? Anѕwer wіｔһ οｎ1y ｔhe сіty naｍe.",
+    "gold":"Hartford",
+    "pred":"Connectcut is a state in the Mid-Atlantic region"
+  }
+]

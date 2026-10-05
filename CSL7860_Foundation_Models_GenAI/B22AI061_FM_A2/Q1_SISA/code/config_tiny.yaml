@@ -1,0 +1,16 @@
+dataset: cifar10
+data_root: ./data
+K: 2
+S: 2
+epochs_per_slice: 1
+batch_size: 64
+lr: 0.01
+weight_decay: 5e-4
+momentum: 0.9
+optimizer: sgd
+seed: 123
+model: small_cnn
+channels: [16, 32, 64]
+dropout: 0.3
+num_workers: 2
+device: auto

@@ -1,0 +1,5 @@
+{
+  "note": "naive_delete_only; no retraining performed; evaluation should use baseline checkpoints",
+  "from_baseline": "results/baseline_s3",
+  "simulate_delete": 0.05
+}
